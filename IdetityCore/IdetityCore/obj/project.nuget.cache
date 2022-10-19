@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9tqec2pEY3PRH3hlRFFNb1GiDWuL//0gUX8jYB5vGf3MWG+HrG8KzX6WOSERpNh0rcWXNcBKNrI/S0PVW8P7Kw==",
+  "dgSpecHash": "AZURJl87NlRG85EsMiIXh5NIZUbUAYtxuMWlR0w1Eh0Hw0N4cLquN417JH8Xlgk8ofqNw9/sfjnZKnASrsbjNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Azib\\source\\repos\\IdetityCore\\IdetityCore\\IdetityCore.csproj",
+  "projectFilePath": "C:\\Users\\Azib\\source\\repos\\Core\\IdetityCore\\IdetityCore\\IdetityCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Azib\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Azib\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",

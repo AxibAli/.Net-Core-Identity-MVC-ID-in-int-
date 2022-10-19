@@ -2461,11 +2461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Azib\\source\\repos\\IdetityCore\\IdetityCore\\IdetityCore.csproj",
+      "projectUniqueName": "C:\\Users\\Azib\\source\\repos\\Core\\IdetityCore\\IdetityCore\\IdetityCore.csproj",
       "projectName": "IdetityCore",
-      "projectPath": "C:\\Users\\Azib\\source\\repos\\IdetityCore\\IdetityCore\\IdetityCore.csproj",
+      "projectPath": "C:\\Users\\Azib\\source\\repos\\Core\\IdetityCore\\IdetityCore\\IdetityCore.csproj",
       "packagesPath": "C:\\Users\\Azib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Azib\\source\\repos\\IdetityCore\\IdetityCore\\obj\\",
+      "outputPath": "C:\\Users\\Azib\\source\\repos\\Core\\IdetityCore\\IdetityCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
